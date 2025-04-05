@@ -1,0 +1,43 @@
+// import { NextResponse } from 'next/server';
+// import DICTIONARY from '@/app/lib/constants/DICTIONARY'
+// import invalidKanji from '@/app/lib/helpers/invalidKanji';
+
+// type DictionaryEntry = {
+//   reading: string,
+//   meaning: string
+// }
+
+// async function parseDictionary(query: string): Promise<null | DictionaryEntry> {
+//   const entry = DICTIONARY.filter(entry => entry.keb === query)
+//   if (!entry[0]) return null
+//   const { reading, meaning } = entry[0]
+//   return { reading, meaning }
+// }
+
+// export async function GET(
+//   _request: Request,
+//   { params }: { params: { query: string } }
+// ) {
+//   const { query } = await params;
+
+//   // Ensure the query is at least 2 characters long
+//   if (query.length < 2) {
+//     return NextResponse.json("NOPE... too short");
+//   }
+
+//   if (invalidKanji(query, 'n5')) {
+//     return NextResponse.json("NOPE... invalid kanji");
+//   }
+
+//   try {
+//     const result = await parseDictionary(query);
+//     if (result) {
+//       return NextResponse.json(result);
+//     } else {
+//       return NextResponse.json("NOPE");
+//     }
+//   } catch (error) {
+//     console.log('Error => ' + error)
+//     return NextResponse.json("NOPE", { status: 500 });
+//   }
+// }

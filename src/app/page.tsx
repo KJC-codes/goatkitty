@@ -1,21 +1,25 @@
-import N5_KANJI, { KanjiEntry } from "./lib/n5";
+// import N5_KANJI, { KanjiEntry } from "./lib/constants/N5";
+// import LookupComponent from "./components/LookupComponent/LookupComponent";
+import Match from "./components/Match/Match";
+// const capilatize = (string: string): string => string.charAt(0).toUpperCase() + string.slice(1)
 
-const capilatize = (string: string): string => string.charAt(0).toUpperCase() + string.slice(1)
+export default async function Home() {
 
-export default function Home() {
-  const currentConcept = 'place';
+
+  
+  // const currentConcept = 'time';
   // const allConcepts = [...new Set(N5_KANJI.flatMap(item => item.concept))];
-  const list = currentConcept ? N5_KANJI.filter(kanji => kanji.concept.includes(currentConcept)) : N5_KANJI
+  // const list = currentConcept ? N5_KANJI.filter(kanji => kanji.concept.includes(currentConcept)) : N5_KANJI
   return (
     <div className="grid items-center justify-items-center min-h-screen p-8  gap-16 font-[family-name:var(--font-geist-sans)]">
-      <main className="bg-zinc-800  rounded-2xl backdrop-blur-3xl p-8 flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <h1 className="text-amber-400 text-6xl">Basic {capilatize(currentConcept)} Kanji ({list.length})</h1>
+      <main className="rounded-2xl backdrop-blur-3xl flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
+        {/* <h1 className="text-amber-400 text-6xl">Basic {capilatize(currentConcept || '')} Kanji ({list.length})</h1> */}
         {/* <select>
           {allConcepts.sort((a, b) => a.localeCompare(b)).map(concept => (
             <option key={concept} value={concept}>{capilatize(concept)}</option>
           ))}
         </select> */}
-        <div className="grid gap-6 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 break-words break-keep">
+        {/* <div className="grid gap-6 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 break-words break-keep">
           {list.map((kanji: KanjiEntry) => (
             <div key={kanji.kanji} className="bg-zinc-900 text-amber-400  text-white rounded-lg p-8" >
               <h3 className="text-7xl jp-text mb-8">{kanji.kanji}</h3>
@@ -26,10 +30,13 @@ export default function Home() {
               <p className="text-2xl mt-4">{kanji.meaning.map(concept => capilatize(concept)).join(', ')}</p>
             </div>
           ))}
-        </div>
+        </div> */}
+        {/* <LookupComponent /> */}
+        <Match />
       </main>
-      <footer className="text-xs row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <p> &copy; 2025 Blah Blah Goat Kitty</p>
+      <footer className="text-xs row-start-3 flex gap-[24px] text-zinc-300 flex-wrap items-center justify-center">
+        <p className="max-w-xl"><b>Version 0.1:</b> Still working through library so options might be a bit wonky. A lot of code cleanup is neede as well.</p>
+        <p className="max-w-xl pt-4 border-t border-t-zinc-300">Data for this project is derived from the JMdict (Japanese-Multilingual Dictionary) project and is available under the <a className="text-sky-300" href="https://www.edrdg.org/edrdg/licence.html">Creative Commons Attribution-ShareAlike Licence (V4.0)</a>. This project is not affiliated with, endorsed by, or connected to the creators of the JMdict dictionary file.</p>
       </footer>
     </div>
   )

@@ -25,11 +25,6 @@ const DICTIONARY = [
     "meaning": "Turkey, Türkiye"
   },
   {
-    "keb": "安気",
-    "reading": "あんき",
-    "meaning": "carefree, easy, comfortable"
-  },
-  {
     "keb": "安手",
     "reading": "やすで",
     "meaning": "cheap kind"
@@ -405,11 +400,6 @@ const DICTIONARY = [
     "meaning": "appreciation of the yen, strong yen"
   },
   {
-    "keb": "円本",
-    "reading": "えんぽん",
-    "meaning": "one-yen book (Showa period)"
-  },
-  {
     "keb": "下",
     "reading": "した",
     "meaning": "below, down, under, younger (e.g. daughter)"
@@ -475,19 +465,9 @@ const DICTIONARY = [
     "meaning": "unskillful, poor, awkward"
   },
   {
-    "keb": "下手人",
-    "reading": "げしゅにん",
-    "meaning": "offender, criminal"
-  },
-  {
     "keb": "下書",
     "reading": "げしょ",
     "meaning": "draft, rough copy"
-  },
-  {
-    "keb": "下女",
-    "reading": "げじょ",
-    "meaning": "maidservant"
   },
   {
     "keb": "下女下男",
@@ -776,11 +756,6 @@ const DICTIONARY = [
   },
   {
     "keb": "会",
-    "reading": "え",
-    "meaning": "gathering (esp. Buddhist, festive, etc.)"
-  },
-  {
-    "keb": "会",
     "reading": "かい",
     "meaning": "meeting, assembly, party, gathering, conference, athletic meet"
   },
@@ -878,11 +853,6 @@ const DICTIONARY = [
     "keb": "外食",
     "reading": "がいしょく",
     "meaning": "eating out, dining out"
-  },
-  {
-    "keb": "外人",
-    "reading": "がいじん",
-    "meaning": "foreigner (esp. one of European ancestry), gaijin"
   },
   {
     "keb": "外電",
@@ -1185,11 +1155,6 @@ const DICTIONARY = [
     "meaning": "blank space (in a document)"
   },
   {
-    "keb": "空母",
-    "reading": "くうぼ",
-    "meaning": "aircraft carrier"
-  },
-  {
     "keb": "空名",
     "reading": "くうめい",
     "meaning": "empty name, false reputation"
@@ -1313,11 +1278,6 @@ const DICTIONARY = [
     "keb": "言明",
     "reading": "げんめい",
     "meaning": "declaration, statement, assertion"
-  },
-  {
-    "keb": "古",
-    "reading": "いにしえ",
-    "meaning": "antiquity, ancient times, bygone days, former times"
   },
   {
     "keb": "古",
@@ -1700,11 +1660,6 @@ const DICTIONARY = [
     "meaning": "your views, your opinion"
   },
   {
-    "keb": "高校",
-    "reading": "こうこう",
-    "meaning": "senior high school, high school"
-  },
-  {
     "keb": "高校生",
     "reading": "こうこうせい",
     "meaning": "senior high school student"
@@ -1855,11 +1810,6 @@ const DICTIONARY = [
     "meaning": "something new (of poor quality)"
   },
   {
-    "keb": "今上",
-    "reading": "きんじょう",
-    "meaning": "His Majesty the Emperor, the present emperor, the reigning emperor"
-  },
-  {
     "keb": "今人",
     "reading": "こんじん",
     "meaning": "present-day people, people of this world"
@@ -1923,11 +1873,6 @@ const DICTIONARY = [
     "keb": "左目",
     "reading": "ひだりめ",
     "meaning": "left eye"
-  },
-  {
-    "keb": "五月",
-    "reading": "さつき",
-    "meaning": "fifth month of the lunar calendar"
   },
   {
     "keb": "三月",
@@ -2073,11 +2018,6 @@ const DICTIONARY = [
     "keb": "山林",
     "reading": "さんりん",
     "meaning": "mountain forest, forest on a mountain, forest land, woodland"
-  },
-  {
-    "keb": "山林学",
-    "reading": "さんりんがく",
-    "meaning": "forestry"
   },
   {
     "keb": "四国",
@@ -2233,11 +2173,6 @@ const DICTIONARY = [
     "keb": "七生",
     "reading": "しちしょう",
     "meaning": "seven lives"
-  },
-  {
-    "keb": "七道",
-    "reading": "しちどう",
-    "meaning": "the seven districts of ancient Japan"
   },
   {
     "keb": "七分三分",
@@ -2550,11 +2485,6 @@ const DICTIONARY = [
     "meaning": "output (electrical, signal, etc.)"
   },
   {
-    "keb": "書生",
-    "reading": "しょせい",
-    "meaning": "student"
-  },
-  {
     "keb": "書体",
     "reading": "しょたい",
     "meaning": "typeface"
@@ -2595,19 +2525,9 @@ const DICTIONARY = [
     "meaning": "woman, girl"
   },
   {
-    "keb": "女子高",
-    "reading": "じょしこう",
-    "meaning": "girls' high school"
-  },
-  {
     "keb": "女子高生",
     "reading": "じょしこうせい",
     "meaning": "female high school student"
-  },
-  {
-    "keb": "女子大",
-    "reading": "じょしだい",
-    "meaning": "women's college, women's university"
   },
   {
     "keb": "女人",
@@ -2625,19 +2545,9 @@ const DICTIONARY = [
     "meaning": "woman's body"
   },
   {
-    "keb": "女中",
-    "reading": "じょちゅう",
-    "meaning": "maidservant, housemaid, maid"
-  },
-  {
     "keb": "小雨",
     "reading": "こさめ",
     "meaning": "light rain, drizzle"
-  },
-  {
-    "keb": "小学",
-    "reading": "しょうがく",
-    "meaning": "elementary school, primary school, grade school"
   },
   {
     "keb": "小学校",
@@ -3078,11 +2988,6 @@ const DICTIONARY = [
     "keb": "人時",
     "reading": "にんじ",
     "meaning": "man-hour"
-  },
-  {
-    "keb": "人車",
-    "reading": "じんしゃ",
-    "meaning": "rickshaw, jinrikisha"
   },
   {
     "keb": "人出",
@@ -3910,11 +3815,6 @@ const DICTIONARY = [
     "meaning": "considerably, greatly, a lot"
   },
   {
-    "keb": "大名",
-    "reading": "だいみょう",
-    "meaning": "daimyo (Japanese feudal lord)"
-  },
-  {
     "keb": "大木",
     "reading": "たいぼく",
     "meaning": "large tree"
@@ -3958,11 +3858,6 @@ const DICTIONARY = [
     "keb": "中外",
     "reading": "ちゅうがい",
     "meaning": "home and abroad, domestic and foreign"
-  },
-  {
-    "keb": "中学",
-    "reading": "ちゅうがく",
-    "meaning": "junior high school, middle school, lower secondary school"
   },
   {
     "keb": "中学校",
@@ -4105,11 +4000,6 @@ const DICTIONARY = [
     "meaning": "middle, half-finished"
   },
   {
-    "keb": "中分",
-    "reading": "ちゅうぶん",
-    "meaning": "dividing into two halves"
-  },
-  {
     "keb": "中立",
     "reading": "ちゅうりつ",
     "meaning": "neutrality"
@@ -4188,11 +4078,6 @@ const DICTIONARY = [
     "keb": "長",
     "reading": "ちょう",
     "meaning": "head, chief, leader, elder"
-  },
-  {
-    "keb": "長月",
-    "reading": "ながつき",
-    "meaning": "ninth month of the lunar calendar"
   },
   {
     "keb": "長時間",
@@ -4471,11 +4356,6 @@ const DICTIONARY = [
   },
   {
     "keb": "東",
-    "reading": "あずま",
-    "meaning": "eastern Japan (esp. Kamakura or Edo, from perspective of Kyoto or Nara), eastern provinces"
-  },
-  {
-    "keb": "東",
     "reading": "ひがし",
     "meaning": "east"
   },
@@ -4590,11 +4470,6 @@ const DICTIONARY = [
     "meaning": "culmination, southing, crossing the meridian"
   },
   {
-    "keb": "南朝",
-    "reading": "なんちょう",
-    "meaning": "Southern Court (of Japan; 1336-1392), Southern Dynasty"
-  },
-  {
     "keb": "南半",
     "reading": "なんはん",
     "meaning": "southern half"
@@ -4603,11 +4478,6 @@ const DICTIONARY = [
     "keb": "南北",
     "reading": "なんぼく",
     "meaning": "north and south, north to south"
-  },
-  {
-    "keb": "南北朝",
-    "reading": "なんぼくちょう",
-    "meaning": "Northern and Southern Courts (of Japan; 1336-1392), Northern and Southern Dynasties"
   },
   {
     "keb": "南門",
@@ -4688,11 +4558,6 @@ const DICTIONARY = [
     "keb": "二道",
     "reading": "ふたみち",
     "meaning": "branch roads, forked roads, crossroads, two ways (of proceeding)"
-  },
-  {
-    "keb": "二八",
-    "reading": "にはち",
-    "meaning": "sixteen"
   },
   {
     "keb": "二百十日",
@@ -4995,11 +4860,6 @@ const DICTIONARY = [
     "meaning": "texture (e.g. skin, fabric)"
   },
   {
-    "keb": "八九分",
-    "reading": "はっくぶ",
-    "meaning": "nearly, almost, [object Object]"
-  },
-  {
     "keb": "八道",
     "reading": "はちどう",
     "meaning": "the 8 districts of feudal Japan"
@@ -5275,11 +5135,6 @@ const DICTIONARY = [
     "meaning": "mother and child"
   },
   {
-    "keb": "母上",
-    "reading": "ははうえ",
-    "meaning": "mother"
-  },
-  {
     "keb": "母体",
     "reading": "ぼたい",
     "meaning": "mother's body (esp. when pregnant or after giving birth)"
@@ -5323,11 +5178,6 @@ const DICTIONARY = [
     "keb": "北西",
     "reading": "ほくせい",
     "meaning": "northwest"
-  },
-  {
-    "keb": "北朝",
-    "reading": "ほくちょう",
-    "meaning": "Northern Court (of Japan; 1336-1392), Northern Dynasty"
   },
   {
     "keb": "北天",
@@ -5738,11 +5588,6 @@ const DICTIONARY = [
     "keb": "来書",
     "reading": "らいしょ",
     "meaning": "letter received"
-  },
-  {
-    "keb": "来朝",
-    "reading": "らいちょう",
-    "meaning": "coming to Japan, visit to Japan"
   },
   {
     "keb": "来店",
@@ -6505,11 +6350,6 @@ const DICTIONARY = [
     "meaning": "baby"
   },
   {
-    "keb": "赤子",
-    "reading": "せきし",
-    "meaning": "baby"
-  },
-  {
     "keb": "外耳道",
     "reading": "がいじどう",
     "meaning": "external auditory canal, ear canal, external auditory meatus"
@@ -6548,11 +6388,6 @@ const DICTIONARY = [
     "keb": "石南花",
     "reading": "しゃくなげ",
     "meaning": "rhododendron"
-  },
-  {
-    "keb": "金子",
-    "reading": "きんす",
-    "meaning": "money, funds"
   },
   {
     "keb": "金石",
@@ -6628,11 +6463,6 @@ const DICTIONARY = [
     "keb": "白魚",
     "reading": "しらうお",
     "meaning": "icefish (Salangidae spp., esp. the Japanese icefish, Salangichthys microdon), noodlefish, whitebait"
-  },
-  {
-    "keb": "中高生",
-    "reading": "ちゅうこうせい",
-    "meaning": "middle and high-school students"
   },
   {
     "keb": "古女",
@@ -6805,11 +6635,6 @@ const DICTIONARY = [
     "meaning": "white of the eye"
   },
   {
-    "keb": "明朝",
-    "reading": "みんちょう",
-    "meaning": "Ming dynasty (of China; 1368-1644)"
-  },
-  {
     "keb": "朝見",
     "reading": "ちょうけん",
     "meaning": "audience with the Emperor, imperial audience"
@@ -6858,11 +6683,6 @@ const DICTIONARY = [
     "keb": "山手",
     "reading": "やまて",
     "meaning": "place near the mountains"
-  },
-  {
-    "keb": "私大",
-    "reading": "しだい",
-    "meaning": "private university"
   },
   {
     "keb": "時半",
@@ -7455,11 +7275,6 @@ const DICTIONARY = [
     "meaning": "Blue Book (government-issued report)"
   },
   {
-    "keb": "青電話",
-    "reading": "あおでんわ",
-    "meaning": "blue telephone, (blue) public telephone"
-  },
-  {
     "keb": "名山",
     "reading": "めいざん",
     "meaning": "famous mountain"
@@ -7920,11 +7735,6 @@ const DICTIONARY = [
     "meaning": "Senke school of tea ceremony"
   },
   {
-    "keb": "三下",
-    "reading": "さんした",
-    "meaning": "petty underling, small fry"
-  },
-  {
     "keb": "三年",
     "reading": "さんねん",
     "meaning": "three years"
@@ -8063,11 +7873,6 @@ const DICTIONARY = [
     "keb": "好古",
     "reading": "こうこ",
     "meaning": "love of antiquities"
-  },
-  {
-    "keb": "好色本",
-    "reading": "こうしょくぼん",
-    "meaning": "pornographic book (Edo period)"
   },
   {
     "keb": "好色家",
@@ -8410,11 +8215,6 @@ const DICTIONARY = [
     "meaning": "rainforest"
   },
   {
-    "keb": "石女",
-    "reading": "うまずめ",
-    "meaning": "barren woman, sterile woman"
-  },
-  {
     "keb": "四年生",
     "reading": "よねんせい",
     "meaning": "fourth-year student"
@@ -8438,11 +8238,6 @@ const DICTIONARY = [
     "keb": "食分",
     "reading": "しょくぶん",
     "meaning": "phase of an eclipse"
-  },
-  {
-    "keb": "年休",
-    "reading": "ねんきゅう",
-    "meaning": "annual leave, annual paid vacation, annual paid holiday"
   },
   {
     "keb": "毎食",
@@ -8585,11 +8380,6 @@ const DICTIONARY = [
     "meaning": "seven days a week"
   },
   {
-    "keb": "中高",
-    "reading": "ちゅうこう",
-    "meaning": "middle and high school"
-  },
-  {
     "keb": "小女子",
     "reading": "こうなご",
     "meaning": "young lancefish, young sand lance"
@@ -8690,11 +8480,6 @@ const DICTIONARY = [
     "meaning": "middle and old age"
   },
   {
-    "keb": "社",
-    "reading": "しゃ",
-    "meaning": "company, firm, office, association, society"
-  },
-  {
     "keb": "三言",
     "reading": "みこと",
     "meaning": "three words"
@@ -8728,11 +8513,6 @@ const DICTIONARY = [
     "keb": "目",
     "reading": "もく",
     "meaning": "order"
-  },
-  {
-    "keb": "色校",
-    "reading": "いろこう",
-    "meaning": "checking the colors on a colored proof (colour)"
   },
   {
     "keb": "九六",
@@ -8965,11 +8745,6 @@ const DICTIONARY = [
     "meaning": "go-between, intermediary, middleman, mediator"
   },
   {
-    "keb": "青女",
-    "reading": "あおおんな",
-    "meaning": "young girl unused to the ways of the world"
-  },
-  {
     "keb": "青花",
     "reading": "あおばな",
     "meaning": "Asiatic dayflower (Commelina communis)"
@@ -8993,11 +8768,6 @@ const DICTIONARY = [
     "keb": "家犬",
     "reading": "いえいぬ",
     "meaning": "domestic dog (Canis lupus familiaris)"
-  },
-  {
-    "keb": "食安",
-    "reading": "しょくあん",
-    "meaning": "food safety"
   },
   {
     "keb": "人間",
@@ -9033,11 +8803,6 @@ const DICTIONARY = [
     "keb": "空",
     "reading": "くう",
     "meaning": "empty air, sky"
-  },
-  {
-    "keb": "手前",
-    "reading": "てめえ",
-    "meaning": "you"
   },
   {
     "keb": "年女",
@@ -9091,11 +8856,6 @@ const DICTIONARY = [
   },
   {
     "keb": "日",
-    "reading": "にち",
-    "meaning": "Sunday"
-  },
-  {
-    "keb": "日",
     "reading": "か",
     "meaning": "day of month"
   },
@@ -9143,16 +8903,6 @@ const DICTIONARY = [
     "keb": "人中",
     "reading": "じんちゅう",
     "meaning": "in company, among people"
-  },
-  {
-    "keb": "五山",
-    "reading": "ごさん",
-    "meaning": "five most important temples of a region"
-  },
-  {
-    "keb": "名門校",
-    "reading": "めいもんこう",
-    "meaning": "prestigious school"
   },
   {
     "keb": "校名",
@@ -9420,24 +9170,9 @@ const DICTIONARY = [
     "meaning": "spiracle (respiratory pores in the body of insects)"
   },
   {
-    "keb": "立大",
-    "reading": "りつだい",
-    "meaning": "private university"
-  },
-  {
-    "keb": "月",
-    "reading": "げつ",
-    "meaning": "Monday"
-  },
-  {
     "keb": "小",
     "reading": "こ",
     "meaning": "small, little, slight"
-  },
-  {
-    "keb": "水",
-    "reading": "すい",
-    "meaning": "Wednesday"
   },
   {
     "keb": "名",
@@ -9458,11 +9193,6 @@ const DICTIONARY = [
     "keb": "赤花",
     "reading": "あかばな",
     "meaning": "willowherb (Epilobium pyrricholophum)"
-  },
-  {
-    "keb": "道",
-    "reading": "どう",
-    "meaning": "road, path, street, route"
   },
   {
     "keb": "下",
@@ -9513,11 +9243,6 @@ const DICTIONARY = [
     "keb": "人間道",
     "reading": "にんげんどう",
     "meaning": "humaneness"
-  },
-  {
-    "keb": "子月",
-    "reading": "ねづき",
-    "meaning": "eleventh month of the lunar calendar"
   },
   {
     "keb": "社日",
@@ -9575,24 +9300,9 @@ const DICTIONARY = [
     "meaning": "rainforest"
   },
   {
-    "keb": "五明",
-    "reading": "ごみょう",
-    "meaning": "the five sciences of ancient India (grammar and composition, arts and mathematics, medicine, logic, and philosophy)"
-  },
-  {
-    "keb": "田長",
-    "reading": "たおさ",
-    "meaning": "master of the rice field, chief farmer"
-  },
-  {
     "keb": "大百舌",
     "reading": "おおもず",
     "meaning": "northern shrike, great grey shrike (Lanius excubitor)"
-  },
-  {
-    "keb": "雨月",
-    "reading": "うげつ",
-    "meaning": "being unable to see the (harvest) moon because of rain"
   },
   {
     "keb": "西国",
@@ -9630,11 +9340,6 @@ const DICTIONARY = [
     "meaning": "perennation"
   },
   {
-    "keb": "犬子",
-    "reading": "えのこ",
-    "meaning": "puppy"
-  },
-  {
     "keb": "上気道",
     "reading": "じょうきどう",
     "meaning": "upper respiratory tract, upper airway"
@@ -9653,11 +9358,6 @@ const DICTIONARY = [
     "keb": "明",
     "reading": "めい",
     "meaning": "brightness"
-  },
-  {
-    "keb": "明",
-    "reading": "みん",
-    "meaning": "Ming dynasty (of China; 1368-1644)"
   },
   {
     "keb": "水魚",
@@ -9685,16 +9385,6 @@ const DICTIONARY = [
     "meaning": "private junior high school"
   },
   {
-    "keb": "私立中",
-    "reading": "しりつちゅう",
-    "meaning": "private junior high school"
-  },
-  {
-    "keb": "白田",
-    "reading": "しろた",
-    "meaning": "snow-covered rice paddy"
-  },
-  {
     "keb": "白一色",
     "reading": "はくいっしょく",
     "meaning": "bright white (esp. for snow and ice), brilliant white"
@@ -9710,24 +9400,9 @@ const DICTIONARY = [
     "meaning": "child (esp. a boy)"
   },
   {
-    "keb": "私",
-    "reading": "わい",
-    "meaning": "I, me"
-  },
-  {
-    "keb": "私",
-    "reading": "わたい",
-    "meaning": "I, me"
-  },
-  {
     "keb": "家",
     "reading": "か",
     "meaning": "-ist, -er"
-  },
-  {
-    "keb": "年",
-    "reading": "とせ",
-    "meaning": "counter for years"
   },
   {
     "keb": "八万",
@@ -9765,11 +9440,6 @@ const DICTIONARY = [
     "meaning": "Arctic lamprey (Lethenteron camtschaticum)"
   },
   {
-    "keb": "八目",
-    "reading": "やつめ",
-    "meaning": "eighth (place, position, etc.)"
-  },
-  {
     "keb": "名目上",
     "reading": "めいもくじょう",
     "meaning": "nominal, in name (only)"
@@ -9790,19 +9460,9 @@ const DICTIONARY = [
     "meaning": "the five elements (in Japanese philosophy: earth, water, fire, wind and void)"
   },
   {
-    "keb": "後月",
-    "reading": "あとげつ",
-    "meaning": "last month"
-  },
-  {
     "keb": "男気",
     "reading": "おとこげ",
     "meaning": "male presence"
-  },
-  {
-    "keb": "女気",
-    "reading": "おんなぎ",
-    "meaning": "feminine spirit, graceful and kind nature"
   },
   {
     "keb": "気",
@@ -9830,54 +9490,14 @@ const DICTIONARY = [
     "meaning": "mountain witch"
   },
   {
-    "keb": "日東",
-    "reading": "にっとう",
-    "meaning": "Japan"
-  },
-  {
     "keb": "犬四手",
     "reading": "いぬしで",
     "meaning": "Chonowski's hornbeam (Carpinus tschonoskii)"
   },
   {
-    "keb": "六朝",
-    "reading": "りくちょう",
-    "meaning": "Six Dynasties (of China: Eastern Wu, Eastern Jin, Song, Qi, Liang, Chen)"
-  },
-  {
     "keb": "貝",
     "reading": "バイ",
     "meaning": "Japanese Babylon (Babylonia japonica), Japanese ivory shell"
-  },
-  {
-    "keb": "人長",
-    "reading": "にんじょう",
-    "meaning": "chief kagura dancer (of kagura performed at the imperial palace)"
-  },
-  {
-    "keb": "入",
-    "reading": "しお",
-    "meaning": "counter for soakings (of fabric in a dye)"
-  },
-  {
-    "keb": "千入",
-    "reading": "ちしお",
-    "meaning": "soaking in dye innumerable times"
-  },
-  {
-    "keb": "火",
-    "reading": "か",
-    "meaning": "Tuesday"
-  },
-  {
-    "keb": "木",
-    "reading": "もく",
-    "meaning": "Thursday"
-  },
-  {
-    "keb": "土",
-    "reading": "ど",
-    "meaning": "Saturday"
   },
   {
     "keb": "赤木",
@@ -9960,16 +9580,6 @@ const DICTIONARY = [
     "meaning": "how many people"
   },
   {
-    "keb": "学食",
-    "reading": "がくしょく",
-    "meaning": "school cafeteria"
-  },
-  {
-    "keb": "舌虫",
-    "reading": "したむし",
-    "meaning": "tongue worm (any worm of phylum Pentastomida)"
-  },
-  {
     "keb": "十大弟子",
     "reading": "じゅうだいでし",
     "meaning": "the ten great disciples (of Buddha)"
@@ -9983,16 +9593,6 @@ const DICTIONARY = [
     "keb": "姉",
     "reading": "ねえ",
     "meaning": "older sister"
-  },
-  {
-    "keb": "六国",
-    "reading": "りっこく",
-    "meaning": "the Six Kingdoms (of China's Warring States period: Qi, Chu, Yan, Han, Wei and Zhao)"
-  },
-  {
-    "keb": "小田",
-    "reading": "おだ",
-    "meaning": "rice field (usu. small)"
   },
   {
     "keb": "小",
@@ -10018,11 +9618,6 @@ const DICTIONARY = [
     "keb": "行",
     "reading": "こう",
     "meaning": "going, travelling, traveling, journey, trip"
-  },
-  {
-    "keb": "多時",
-    "reading": "たじ",
-    "meaning": "lots of time"
   },
   {
     "keb": "色",
@@ -10100,16 +9695,6 @@ const DICTIONARY = [
     "meaning": "minutes (period of)"
   },
   {
-    "keb": "子安",
-    "reading": "こやす",
-    "meaning": "safe, easy childbirth"
-  },
-  {
-    "keb": "西",
-    "reading": "せい",
-    "meaning": "Spain"
-  },
-  {
     "keb": "山行",
     "reading": "さんこう",
     "meaning": "mountain hiking, walking in the mountains"
@@ -10145,11 +9730,6 @@ const DICTIONARY = [
     "meaning": "prestigious university"
   },
   {
-    "keb": "休出",
-    "reading": "きゅうしゅつ",
-    "meaning": "working on a day off"
-  },
-  {
     "keb": "何時何分",
     "reading": "なんじなんぷん",
     "meaning": "at what time, when"
@@ -10168,16 +9748,6 @@ const DICTIONARY = [
     "keb": "店",
     "reading": "たな",
     "meaning": "merchant's home"
-  },
-  {
-    "keb": "女子",
-    "reading": "めこ",
-    "meaning": "girl"
-  },
-  {
-    "keb": "小間",
-    "reading": "こま",
-    "meaning": "small room"
   },
   {
     "keb": "水水母",
@@ -10205,19 +9775,9 @@ const DICTIONARY = [
     "meaning": "February and August (months when business is generally at its slowest)"
   },
   {
-    "keb": "二九",
-    "reading": "にく",
-    "meaning": "eighteen"
-  },
-  {
     "keb": "気体力学",
     "reading": "きたいりきがく",
     "meaning": "gas dynamics"
-  },
-  {
-    "keb": "生",
-    "reading": "いく",
-    "meaning": "vital, virile, lively"
   },
   {
     "keb": "生",
@@ -10225,19 +9785,9 @@ const DICTIONARY = [
     "meaning": "area of thick growth (of trees, grass, etc.)"
   },
   {
-    "keb": "明",
-    "reading": "さや",
-    "meaning": "clearly, brightly"
-  },
-  {
     "keb": "出",
     "reading": "しゅつ",
     "meaning": "coming out, emerging"
-  },
-  {
-    "keb": "土",
-    "reading": "に",
-    "meaning": "soil (esp. reddish soil)"
   },
   {
     "keb": "目力",
@@ -10280,11 +9830,6 @@ const DICTIONARY = [
     "meaning": "facial gesture of pulling one's eyelid down and sticking out one's tongue"
   },
   {
-    "keb": "中今",
-    "reading": "なかいま",
-    "meaning": "the present (esp. as a privileged moment in eternity)"
-  },
-  {
     "keb": "白土",
     "reading": "しらつち",
     "meaning": "white clay, white earth, kaolin, mortar"
@@ -10311,11 +9856,6 @@ const DICTIONARY = [
   },
   {
     "keb": "大姉",
-    "reading": "おおあね",
-    "meaning": "eldest sister"
-  },
-  {
-    "keb": "大姉",
     "reading": "だいし",
     "meaning": "Sister (i.e. a nun; sometimes used as a posthumous suffix)"
   },
@@ -10323,11 +9863,6 @@ const DICTIONARY = [
     "keb": "天目",
     "reading": "てんもく",
     "meaning": "tenmoku, [object Object]"
-  },
-  {
-    "keb": "社大",
-    "reading": "しゃだい",
-    "meaning": "Socialist Masses Party"
   },
   {
     "keb": "山車",
@@ -10360,16 +9895,6 @@ const DICTIONARY = [
     "meaning": "one hundred years ago, a hundred year previously"
   },
   {
-    "keb": "目見",
-    "reading": "まみ",
-    "meaning": "look, one's eyes"
-  },
-  {
-    "keb": "本天",
-    "reading": "ほんてん",
-    "meaning": "silk velvet"
-  },
-  {
     "keb": "言語社会学",
     "reading": "げんごしゃかいがく",
     "meaning": "sociology of language"
@@ -10378,11 +9903,6 @@ const DICTIONARY = [
     "keb": "花貝",
     "reading": "はながい",
     "meaning": "Placamen tiara (species of venerid)"
-  },
-  {
-    "keb": "月読",
-    "reading": "つくよみ",
-    "meaning": "moon"
   },
   {
     "keb": "石百足",
@@ -10401,18 +9921,8 @@ const DICTIONARY = [
   },
   {
     "keb": "四大",
-    "reading": "よんだい",
-    "meaning": "university or college offering four-year programs"
-  },
-  {
-    "keb": "四大",
     "reading": "しだい",
     "meaning": "the four elements (earth, water, fire, wind)"
-  },
-  {
-    "keb": "四体",
-    "reading": "したい",
-    "meaning": "head, trunk, arms, and legs, the whole body"
   },
   {
     "keb": "天花",
@@ -10433,11 +9943,6 @@ const DICTIONARY = [
     "keb": "古名",
     "reading": "こめい",
     "meaning": "old name, former name"
-  },
-  {
-    "keb": "友子",
-    "reading": "ともこ",
-    "meaning": "friend, comrade, companion"
   },
   {
     "keb": "林家",
@@ -10473,16 +9978,6 @@ const DICTIONARY = [
     "keb": "大前",
     "reading": "おおまえ",
     "meaning": "presence (of a god, emperor, etc.)"
-  },
-  {
-    "keb": "生口",
-    "reading": "せいこう",
-    "meaning": "prisoner of war (Yayoi period)"
-  },
-  {
-    "keb": "小車",
-    "reading": "こぐるま",
-    "meaning": "Inula japonica"
   },
   {
     "keb": "石人",
@@ -10540,11 +10035,6 @@ const DICTIONARY = [
     "meaning": "small and simple home"
   },
   {
-    "keb": "小女",
-    "reading": "こおんな",
-    "meaning": "small woman"
-  },
-  {
     "keb": "昼中",
     "reading": "ひるなか",
     "meaning": "daytime"
@@ -10565,29 +10055,14 @@ const DICTIONARY = [
     "meaning": "small, little, dear"
   },
   {
-    "keb": "新円",
-    "reading": "しんえん",
-    "meaning": "new yen (issued in 1946 to fight inflation)"
-  },
-  {
     "keb": "私田",
     "reading": "しでん",
     "meaning": "privately owned rice field"
   },
   {
-    "keb": "人見",
-    "reading": "ひとみ",
-    "meaning": "slit in the curtains that allows someone on stage to see the audience (in kabuki theatre)"
-  },
-  {
     "keb": "天一天上",
     "reading": "てんいちてんじょう",
     "meaning": "days on which Ten'ichijin is in heaven (the 30th to the 45th days of the sexagenary cycle)"
-  },
-  {
-    "keb": "天一",
-    "reading": "てんいち",
-    "meaning": "Ten'ichijin, Nakagami, [object Object]"
   },
   {
     "keb": "一白",
@@ -10635,19 +10110,9 @@ const DICTIONARY = [
     "meaning": "dried sea-cucumber ovaries"
   },
   {
-    "keb": "本門",
-    "reading": "ほんもん",
-    "meaning": "main gate, front gate"
-  },
-  {
     "keb": "何語",
     "reading": "なんご",
     "meaning": "how many words"
-  },
-  {
-    "keb": "十二門",
-    "reading": "じゅうにもん",
-    "meaning": "the twelve gates of Heian Palace"
   },
   {
     "keb": "外山",
@@ -10663,16 +10128,6 @@ const DICTIONARY = [
     "keb": "中日本",
     "reading": "なかにほん",
     "meaning": "central Japan"
-  },
-  {
-    "keb": "小半時",
-    "reading": "こはんとき",
-    "meaning": "approximately thirty minutes"
-  },
-  {
-    "keb": "大年",
-    "reading": "おおとし",
-    "meaning": "New Year's Eve"
   },
   {
     "keb": "四七日",
@@ -10695,11 +10150,6 @@ const DICTIONARY = [
     "meaning": "seven boarding schools established in Kyoto by noble families during the early Heian period"
   },
   {
-    "keb": "学生",
-    "reading": "がくしょう",
-    "meaning": "Heian-period student of government administration"
-  },
-  {
     "keb": "南大門",
     "reading": "なんだいもん",
     "meaning": "main southern gate (of a temple, castle town, etc.)"
@@ -10710,11 +10160,6 @@ const DICTIONARY = [
     "meaning": "gate in the middle of the corridor connecting an annex to a pond-side building (in traditional palatial-style architecture)"
   },
   {
-    "keb": "読本",
-    "reading": "よみほん",
-    "meaning": "yomihon (type of popular literature from the late Edo period)"
-  },
-  {
     "keb": "書道家",
     "reading": "しょどうか",
     "meaning": "calligrapher"
@@ -10723,11 +10168,6 @@ const DICTIONARY = [
     "keb": "色子",
     "reading": "いろこ",
     "meaning": "kabuki actor who is also a male prostitute"
-  },
-  {
-    "keb": "昼三",
-    "reading": "ちゅうさん",
-    "meaning": "highest ranking prostitute in Edo's Yoshiwara red-light district (from the Hōreki era onward)"
   },
   {
     "keb": "出女",
@@ -10750,16 +10190,6 @@ const DICTIONARY = [
     "meaning": "boys' high school"
   },
   {
-    "keb": "朝空",
-    "reading": "あさぞら",
-    "meaning": "morning sky"
-  },
-  {
-    "keb": "弟月",
-    "reading": "おとづき",
-    "meaning": "12th lunar month"
-  },
-  {
     "keb": "時雨月",
     "reading": "しぐれづき",
     "meaning": "tenth lunar month"
@@ -10768,16 +10198,6 @@ const DICTIONARY = [
     "keb": "花見月",
     "reading": "はなみづき",
     "meaning": "third lunar month"
-  },
-  {
-    "keb": "電休",
-    "reading": "でんきゅう",
-    "meaning": "suspension of power supply"
-  },
-  {
-    "keb": "電休日",
-    "reading": "でんきゅうび",
-    "meaning": "no-electricity day"
   },
   {
     "keb": "四土",
@@ -10798,11 +10218,6 @@ const DICTIONARY = [
     "keb": "石貝",
     "reading": "いしがい",
     "meaning": "Unio douglasiae (species of freshwater mussel)"
-  },
-  {
-    "keb": "日外",
-    "reading": "じつがい",
-    "meaning": "at one time, some time ago, once"
   },
   {
     "keb": "西南日本",
@@ -10915,11 +10330,6 @@ const DICTIONARY = [
     "meaning": "Off-Mountain School (of Song-period Tiantai Buddhism)"
   },
   {
-    "keb": "三家",
-    "reading": "さんけ",
-    "meaning": "three noble families (Kan'in, Kazan'in and Nakanoin or Koga)"
-  },
-  {
     "keb": "年見",
     "reading": "としみ",
     "meaning": "Tōhoku harvest divination event (14th night of the New Year)"
@@ -10943,11 +10353,6 @@ const DICTIONARY = [
     "keb": "中山道",
     "reading": "なかせんどう",
     "meaning": "Nakasendo (Edo-period Edo-Kyoto highway)"
-  },
-  {
-    "keb": "前後",
-    "reading": "まえしりえ",
-    "meaning": "front and rear, front and back, before and behind"
   },
   {
     "keb": "雨下",
@@ -10990,24 +10395,9 @@ const DICTIONARY = [
     "meaning": "Japan's Three Famous Mountains (Mt. Fuji, Mt. Tate and Mt. Haku)"
   },
   {
-    "keb": "三名山",
-    "reading": "さんめいざん",
-    "meaning": "Japan's Three Famous Mountains (Mt. Fuji, Mt. Tate and Mt. Haku)"
-  },
-  {
     "keb": "来日",
     "reading": "らいじつ",
     "meaning": "future day, later date"
-  },
-  {
-    "keb": "名田",
-    "reading": "みょうでん",
-    "meaning": "rice field in the charge of a nominal holder (ritsuryō system)"
-  },
-  {
-    "keb": "口分田",
-    "reading": "くぶんでん",
-    "meaning": "allotted rice field (ritsuryō system), [object Object]"
   },
   {
     "keb": "高土間",
@@ -11041,18 +10431,8 @@ const DICTIONARY = [
   },
   {
     "keb": "長",
-    "reading": "おさ",
-    "meaning": "head, chief, leader"
-  },
-  {
-    "keb": "長",
     "reading": "なが",
     "meaning": "long"
-  },
-  {
-    "keb": "山",
-    "reading": "むれ",
-    "meaning": "mountain, hill"
   },
   {
     "keb": "大手行",
@@ -11073,11 +10453,6 @@ const DICTIONARY = [
     "keb": "小門",
     "reading": "こもん",
     "meaning": "small gate, side gate, wicket gate, side door"
-  },
-  {
-    "keb": "国立大",
-    "reading": "こくりつだい",
-    "meaning": "national university"
   },
   {
     "keb": "山月",
@@ -11145,11 +10520,6 @@ const DICTIONARY = [
     "meaning": "person who has recently entered the workforce (after completing education), new working adult"
   },
   {
-    "keb": "私立校",
-    "reading": "しりつこう",
-    "meaning": "private school"
-  },
-  {
     "keb": "国家語",
     "reading": "こっかご",
     "meaning": "national language, state language"
@@ -11170,11 +10540,6 @@ const DICTIONARY = [
     "meaning": "ladies and gentlemen!, your attention, please!, roll up, roll up!"
   },
   {
-    "keb": "手力",
-    "reading": "たぢから",
-    "meaning": "arm strength"
-  },
-  {
     "keb": "舌下",
     "reading": "ぜっか",
     "meaning": "sublingual, under the tongue"
@@ -11188,11 +10553,6 @@ const DICTIONARY = [
     "keb": "三明",
     "reading": "さんみょう",
     "meaning": "three kinds of awareness"
-  },
-  {
-    "keb": "花月",
-    "reading": "かげつ",
-    "meaning": "flowers and the moon"
   },
   {
     "keb": "中国名",
@@ -11270,29 +10630,9 @@ const DICTIONARY = [
     "meaning": "tinder, touchwood, charcloth"
   },
   {
-    "keb": "家言",
-    "reading": "いえごと",
-    "meaning": "news from home, letter from home"
-  },
-  {
-    "keb": "母父",
-    "reading": "あもしし",
-    "meaning": "mother and father"
-  },
-  {
     "keb": "赤魚",
     "reading": "あこう",
     "meaning": "Matsubara's red rockfish (Sebastes matsubarae)"
-  },
-  {
-    "keb": "安車",
-    "reading": "あんしゃ",
-    "meaning": "horse carriage for old people and women in ancient China"
-  },
-  {
-    "keb": "兄",
-    "reading": "このかみ",
-    "meaning": "eldest son"
   },
   {
     "keb": "青石",
@@ -11320,24 +10660,9 @@ const DICTIONARY = [
     "meaning": "electrical appliance store"
   },
   {
-    "keb": "道会",
-    "reading": "どうかい",
-    "meaning": "Hokkaido Legislative Assembly"
-  },
-  {
     "keb": "電車道",
     "reading": "でんしゃみち",
     "meaning": "street with tramline, railroad track"
-  },
-  {
-    "keb": "先生",
-    "reading": "シーサン",
-    "meaning": "man, boy"
-  },
-  {
-    "keb": "小日本",
-    "reading": "シャオリーベン",
-    "meaning": "Japanese person, Jap"
   },
   {
     "keb": "二",
@@ -11350,11 +10675,6 @@ const DICTIONARY = [
     "meaning": "private affairs, personal matter"
   },
   {
-    "keb": "外大",
-    "reading": "がいだい",
-    "meaning": "university of foreign studies, university specializing in foreign languages"
-  },
-  {
     "keb": "外国語大学",
     "reading": "がいこくごだいがく",
     "meaning": "university of foreign studies, university specializing in foreign languages"
@@ -11365,11 +10685,6 @@ const DICTIONARY = [
     "meaning": "power of femininity, woman's level of motivation in fashion, makeup, taste in clothes, etc., girliness (as a positive quality)"
   },
   {
-    "keb": "上一",
-    "reading": "かみいち",
-    "meaning": "conjugation (inflection, declension) of ichidan verbs ending in \"iru\""
-  },
-  {
     "keb": "水月",
     "reading": "すいげつ",
     "meaning": "water and the Moon"
@@ -11378,21 +10693,6 @@ const DICTIONARY = [
     "keb": "女男",
     "reading": "おんなおとこ",
     "meaning": "feminine man, effeminate man"
-  },
-  {
-    "keb": "大女",
-    "reading": "だいじょ",
-    "meaning": "grown-up woman, adult woman"
-  },
-  {
-    "keb": "小女",
-    "reading": "こめ",
-    "meaning": "small girl"
-  },
-  {
-    "keb": "社食",
-    "reading": "しゃしょく",
-    "meaning": "staff canteen"
   },
   {
     "keb": "男名",
@@ -11431,11 +10731,6 @@ const DICTIONARY = [
   },
   {
     "keb": "男",
-    "reading": "おのこ",
-    "meaning": "man, boy"
-  },
-  {
-    "keb": "男",
     "reading": "なん",
     "meaning": "son"
   },
@@ -11453,11 +10748,6 @@ const DICTIONARY = [
     "keb": "三学",
     "reading": "さんがく",
     "meaning": "threefold training, three divisions of the noble eightfold path"
-  },
-  {
-    "keb": "子",
-    "reading": "こう",
-    "meaning": "child"
   },
   {
     "keb": "飲水",
@@ -11540,11 +10830,6 @@ const DICTIONARY = [
     "meaning": "moon's path"
   },
   {
-    "keb": "門前",
-    "reading": "メンゼン",
-    "meaning": "one's hand being completely concealed, not having called any tiles"
-  },
-  {
     "keb": "白",
     "reading": "しら",
     "meaning": "white"
@@ -11553,11 +10838,6 @@ const DICTIONARY = [
     "keb": "白",
     "reading": "はく",
     "meaning": "white"
-  },
-  {
-    "keb": "妹",
-    "reading": "いも",
-    "meaning": "darling (woman), dear, honey, my betrothed"
   },
   {
     "keb": "下家",
@@ -11595,11 +10875,6 @@ const DICTIONARY = [
     "meaning": "extra effort, one small touch, small twist"
   },
   {
-    "keb": "中",
-    "reading": "チュン",
-    "meaning": "red dragon tile"
-  },
-  {
     "keb": "本土人",
     "reading": "ほんどじん",
     "meaning": "mainlander, person from the mainland"
@@ -11608,11 +10883,6 @@ const DICTIONARY = [
     "keb": "赤水母",
     "reading": "あかくらげ",
     "meaning": "northern sea nettle (Chrysaora melanaster)"
-  },
-  {
-    "keb": "八十万",
-    "reading": "やそよろず",
-    "meaning": "many"
   },
   {
     "keb": "一生分",
@@ -11635,11 +10905,6 @@ const DICTIONARY = [
     "meaning": "Land of the Rising Sun"
   },
   {
-    "keb": "日語",
-    "reading": "にちご",
-    "meaning": "Japanese (language)"
-  },
-  {
     "keb": "耳金",
     "reading": "みみがね",
     "meaning": "lug"
@@ -11658,16 +10923,6 @@ const DICTIONARY = [
     "keb": "女山",
     "reading": "おんなやま",
     "meaning": "gently sloping mountain (of the less rugged mountain of a pair of mountains)"
-  },
-  {
-    "keb": "安南語",
-    "reading": "アンナンご",
-    "meaning": "Annamese (language), Vietnamese"
-  },
-  {
-    "keb": "入家",
-    "reading": "にゅうか",
-    "meaning": "being entered in a new family register (through adoption, marriage, etc.)"
   },
   {
     "keb": "夕食時",
@@ -11723,11 +10978,6 @@ const DICTIONARY = [
     "keb": "電気石",
     "reading": "でんきせき",
     "meaning": "tourmaline"
-  },
-  {
-    "keb": "三一",
-    "reading": "さんぴん",
-    "meaning": "low-ranking samurai"
   },
   {
     "keb": "円石",
@@ -11830,11 +11080,6 @@ const DICTIONARY = [
     "meaning": "atmospheric electricity"
   },
   {
-    "keb": "私学校",
-    "reading": "しがっこう",
-    "meaning": "private school"
-  },
-  {
     "keb": "一目",
     "reading": "いちもく",
     "meaning": "look, glance, glimpse"
@@ -11870,11 +11115,6 @@ const DICTIONARY = [
     "meaning": "what date?, what's the date?, when?"
   },
   {
-    "keb": "森立",
-    "reading": "しんりつ",
-    "meaning": "standing close together"
-  },
-  {
     "keb": "行書体",
     "reading": "ぎょうしょたい",
     "meaning": "semi-cursive style (of writing Chinese characters), running style"
@@ -11888,11 +11128,6 @@ const DICTIONARY = [
     "keb": "半目",
     "reading": "はんもく",
     "meaning": "half a point (esp. in go)"
-  },
-  {
-    "keb": "駅子",
-    "reading": "えきし",
-    "meaning": "staff at a horse changing station during the ritsuryō period"
   },
   {
     "keb": "一",
@@ -11990,11 +11225,6 @@ const DICTIONARY = [
     "meaning": "pearl oyster"
   },
   {
-    "keb": "日間",
-    "reading": "にっかん",
-    "meaning": "daytime, during the day"
-  },
-  {
     "keb": "外生",
     "reading": "がいせい",
     "meaning": "exogenous, heterogenous, ectotrophic, extraneous"
@@ -12080,11 +11310,6 @@ const DICTIONARY = [
     "meaning": "root, origin, source, cause, basis, foundation"
   },
   {
-    "keb": "月月火水木金金",
-    "reading": "げつげつかすいもくきんきん",
-    "meaning": "seven-day workweek, working every day of the week, [object Object]"
-  },
-  {
     "keb": "四足",
     "reading": "しそく",
     "meaning": "four legs, four-legged, quadruped"
@@ -12155,21 +11380,6 @@ const DICTIONARY = [
     "meaning": "cold-water ablutions"
   },
   {
-    "keb": "石子",
-    "reading": "いしなご",
-    "meaning": "pebble throwing game played by young girls"
-  },
-  {
-    "keb": "名子",
-    "reading": "なご",
-    "meaning": "lower class peasant, peasant working for a land-owning farmer"
-  },
-  {
-    "keb": "石子",
-    "reading": "いしこ",
-    "meaning": "small stone, pebble"
-  },
-  {
     "keb": "山母子",
     "reading": "やまははこ",
     "meaning": "western pearly everlasting (Anaphalis margaritacea), pearly everlasting"
@@ -12183,11 +11393,6 @@ const DICTIONARY = [
     "keb": "空力",
     "reading": "くうりき",
     "meaning": "aerodynamics"
-  },
-  {
-    "keb": "車校",
-    "reading": "しゃこう",
-    "meaning": "driving school"
   },
   {
     "keb": "色水",
@@ -12325,11 +11530,6 @@ const DICTIONARY = [
     "meaning": "two eights"
   },
   {
-    "keb": "校書",
-    "reading": "きょうしょ",
-    "meaning": "collation, examining and comparing, checking (against the original text)"
-  },
-  {
     "keb": "中朝",
     "reading": "ちゅうちょう",
     "meaning": "China and North Korea, Chinese-North Korean"
@@ -12340,19 +11540,9 @@ const DICTIONARY = [
     "meaning": "colour name, color name"
   },
   {
-    "keb": "虫国",
-    "reading": "ちゅうごく",
-    "meaning": "China"
-  },
-  {
     "keb": "下土",
     "reading": "かど",
     "meaning": "lower world, this world, the earth"
-  },
-  {
-    "keb": "電書",
-    "reading": "でんしょ",
-    "meaning": "electronic book, e-book, ebook"
   },
   {
     "keb": "西行",
@@ -12368,16 +11558,6 @@ const DICTIONARY = [
     "keb": "食",
     "reading": "しょく",
     "meaning": "eclipse (solar, lunar, etc.), occultation"
-  },
-  {
-    "keb": "弟",
-    "reading": "おとと",
-    "meaning": "younger sibling"
-  },
-  {
-    "keb": "弟",
-    "reading": "おと",
-    "meaning": "younger brother (of an older brother), younger sister (of an older sister)"
   },
   {
     "keb": "朝夕食",
@@ -12398,16 +11578,6 @@ const DICTIONARY = [
     "keb": "外名",
     "reading": "がいめい",
     "meaning": "exonym, xenonym"
-  },
-  {
-    "keb": "三十日月",
-    "reading": "みそかづき",
-    "meaning": "new moon, lunar phase when the moon is completely invisible"
-  },
-  {
-    "keb": "時中",
-    "reading": "ときなか",
-    "meaning": "one hour"
   },
   {
     "keb": "多子",
@@ -12440,11 +11610,6 @@ const DICTIONARY = [
     "meaning": "lower respiratory tract, lower airway"
   },
   {
-    "keb": "大",
-    "reading": "たい",
-    "meaning": "nth year in the Taishō era (1912.7.30-1926.12.25)"
-  },
-  {
     "keb": "車間",
     "reading": "しゃかん",
     "meaning": "(distance) between two cars"
@@ -12463,11 +11628,6 @@ const DICTIONARY = [
     "keb": "赤金",
     "reading": "あかきん",
     "meaning": "red gold"
-  },
-  {
-    "keb": "青金",
-    "reading": "あおがね",
-    "meaning": "lead"
   },
   {
     "keb": "火山学",
@@ -12550,16 +11710,6 @@ const DICTIONARY = [
     "meaning": "mainland China, China proper"
   },
   {
-    "keb": "中四国",
-    "reading": "ちゅうしこく",
-    "meaning": "Chūgoku and Shikoku"
-  },
-  {
-    "keb": "先生",
-    "reading": "せんじょう",
-    "meaning": "teacher, instructor, master"
-  },
-  {
     "keb": "私",
     "reading": "わたくし",
     "meaning": "I, me"
@@ -12568,11 +11718,6 @@ const DICTIONARY = [
     "keb": "大耳",
     "reading": "おおみみ",
     "meaning": "big ears"
-  },
-  {
-    "keb": "土",
-    "reading": "ト",
-    "meaning": "Turkey"
   },
   {
     "keb": "新出",
@@ -12610,11 +11755,6 @@ const DICTIONARY = [
     "meaning": "first day (e.g. at work, school), day one"
   },
   {
-    "keb": "男",
-    "reading": "だん",
-    "meaning": "masculine noun"
-  },
-  {
     "keb": "一七日",
     "reading": "いちしちにち",
     "meaning": "seventh day after a person's death, first seven-day period after a person's death"
@@ -12623,36 +11763,6 @@ const DICTIONARY = [
     "keb": "人天",
     "reading": "にんでん",
     "meaning": "earth and heaven, human and heavenly beings"
-  },
-  {
-    "keb": "石女",
-    "reading": "せきじょ",
-    "meaning": "stone statue of a woman"
-  },
-  {
-    "keb": "天山",
-    "reading": "あめやま",
-    "meaning": "enormous thing"
-  },
-  {
-    "keb": "百川",
-    "reading": "ひゃくせん",
-    "meaning": "hundred rivers, many rivers, all rivers"
-  },
-  {
-    "keb": "千万",
-    "reading": "ちよろず",
-    "meaning": "countless number, extremely large number"
-  },
-  {
-    "keb": "道上",
-    "reading": "どうじょう",
-    "meaning": "on the road, side of the road, roadside"
-  },
-  {
-    "keb": "国名",
-    "reading": "くにな",
-    "meaning": "country or region name used for people (in the Heian-period court)"
   },
   {
     "keb": "女書",
@@ -12665,11 +11775,6 @@ const DICTIONARY = [
     "meaning": "big gamble, big plunge"
   },
   {
-    "keb": "友",
-    "reading": "ゆう",
-    "meaning": "friend"
-  },
-  {
     "keb": "中古語",
     "reading": "ちゅうこご",
     "meaning": "Early Middle Japanese"
@@ -12678,21 +11783,6 @@ const DICTIONARY = [
     "keb": "八八花",
     "reading": "はちはちばな",
     "meaning": "standard hanafuda pattern (orig. used to play hachi-hachi)"
-  },
-  {
-    "keb": "聞見",
-    "reading": "ぶんけん",
-    "meaning": "information, experience, knowledge, observation"
-  },
-  {
-    "keb": "日新",
-    "reading": "にっしん",
-    "meaning": "day-by-day renewal, rapid progress"
-  },
-  {
-    "keb": "日語校",
-    "reading": "にちごこう",
-    "meaning": "Japanese language school"
   },
   {
     "keb": "本金",
@@ -12730,21 +11820,6 @@ const DICTIONARY = [
     "meaning": "Aomori (city, prefecture)"
   },
   {
-    "keb": "長門",
-    "reading": "ながと",
-    "meaning": "Nagato (former province located in the west of present-day Yamaguchi Prefecture)"
-  },
-  {
-    "keb": "石見",
-    "reading": "いわみ",
-    "meaning": "Iwami (former province located in the west of present-day Shimane Prefecture)"
-  },
-  {
-    "keb": "火国",
-    "reading": "ひのくに",
-    "meaning": "Hi (former province located in present-day Nagasaki, Saga and Kumamoto prefectures; later split into Hizen and Higo provinces)"
-  },
-  {
     "keb": "九時五時",
     "reading": "くじごじ",
     "meaning": "nine-to-five (working hours), nine to five"
@@ -12775,24 +11850,9 @@ const DICTIONARY = [
     "meaning": "daini (type of playing cards)"
   },
   {
-    "keb": "天川",
-    "reading": "あまかわ",
-    "meaning": "Macao, Macau"
-  },
-  {
-    "keb": "色上",
-    "reading": "いろじょう",
-    "meaning": "colored wood-free paper (coloured)"
-  },
-  {
     "keb": "足下",
     "reading": "そっか",
     "meaning": "at one's feet, underfoot"
-  },
-  {
-    "keb": "私立大",
-    "reading": "しりつだい",
-    "meaning": "private university"
   },
   {
     "keb": "日本本土",
@@ -12813,16 +11873,6 @@ const DICTIONARY = [
     "keb": "六百間",
     "reading": "ろっぴゃっけん",
     "meaning": "roppyakken (type of game)"
-  },
-  {
-    "keb": "下一",
-    "reading": "しもいち",
-    "meaning": "conjugation (inflection, declension) of ichidan verbs ending in \"eru\""
-  },
-  {
-    "keb": "大日本",
-    "reading": "だいにっぽん",
-    "meaning": "Great Japan"
   },
   {
     "keb": "五言",
@@ -12905,11 +11955,6 @@ const DICTIONARY = [
     "meaning": "palaeography, paleography"
   },
   {
-    "keb": "目語",
-    "reading": "もくご",
-    "meaning": "eye-to-eye communication"
-  },
-  {
     "keb": "女子校生",
     "reading": "じょしこうせい",
     "meaning": "student of a girls' school"
@@ -12930,16 +11975,6 @@ const DICTIONARY = [
     "meaning": "scoring combination of a 9 and a 1 in oicho-kabu"
   },
   {
-    "keb": "天",
-    "reading": "あめ",
-    "meaning": "sky"
-  },
-  {
-    "keb": "食店",
-    "reading": "しょくてん",
-    "meaning": "restaurant, eatery"
-  },
-  {
     "keb": "外目",
     "reading": "そとめ",
     "meaning": "appearance, how one looks to others"
@@ -12953,11 +11988,6 @@ const DICTIONARY = [
     "keb": "二色",
     "reading": "ふたいろ",
     "meaning": "two colours"
-  },
-  {
-    "keb": "北家",
-    "reading": "ほっけ",
-    "meaning": "Hokke (northern branch of the Fujiwara clan, Heian period)"
   },
   {
     "keb": "水分子",
@@ -13000,19 +12030,9 @@ const DICTIONARY = [
     "meaning": "Suigetsukai (faction of the Liberal Democratic Party formed in 2015 by members previously not part of any faction), Ishiba faction"
   },
   {
-    "keb": "百",
-    "reading": "もも",
-    "meaning": "hundred, 100"
-  },
-  {
     "keb": "一六",
     "reading": "いちろく",
     "meaning": "(rolling) a 1 and a 6 (with two dice)"
-  },
-  {
-    "keb": "一六日",
-    "reading": "いちろくび",
-    "meaning": "Edo period to early Meiji non-working day falling on all days of the month with a 1 or a 6 in it (when written in kanji numerals, i.e. the 1st, 11th, 16th, 21st and 26th days of the month)"
   },
   {
     "keb": "三千家",
@@ -13023,11 +12043,6 @@ const DICTIONARY = [
     "keb": "東山",
     "reading": "とうさん",
     "meaning": "eastern mountains, mountains to the east"
-  },
-  {
-    "keb": "東山道",
-    "reading": "とうさんどう",
-    "meaning": "Tōsandō (area between the Tōkaidō and Hokurikudō)"
   },
   {
     "keb": "西山",
@@ -13053,11 +12068,6 @@ const DICTIONARY = [
     "keb": "明日天気",
     "reading": "あしたてんき",
     "meaning": "children's game of throwing a shoe up in the air and seeing how it falls to predict whether it will rain or not the following day"
-  },
-  {
-    "keb": "一日",
-    "reading": "ひとひ",
-    "meaning": "one day"
   },
   {
     "keb": "分母子",
@@ -13088,11 +12098,6 @@ const DICTIONARY = [
     "keb": "青二",
     "reading": "あおに",
     "meaning": "2 of batons (high-scoring card in mekuri karuta)"
-  },
-  {
-    "keb": "小魚",
-    "reading": "いさな",
-    "meaning": "small fish, fry"
   },
   {
     "keb": "男子高生",
@@ -13137,11 +12142,6 @@ const DICTIONARY = [
   {
     "keb": "間行",
     "reading": "かんこう",
-    "meaning": "travelling incognito"
-  },
-  {
-    "keb": "間出",
-    "reading": "かんしゅつ",
     "meaning": "travelling incognito"
   },
   {
@@ -13230,11 +12230,6 @@ const DICTIONARY = [
     "meaning": "nth day (of the month)"
   },
   {
-    "keb": "朝",
-    "reading": "あした",
-    "meaning": "morning"
-  },
-  {
     "keb": "行高",
     "reading": "ぎょうこう",
     "meaning": "line height"
@@ -13265,11 +12260,6 @@ const DICTIONARY = [
     "meaning": "half a ken (approx. 0.9 m)"
   },
   {
-    "keb": "女子",
-    "reading": "おなご",
-    "meaning": "woman, girl"
-  },
-  {
     "keb": "四一",
     "reading": "しっぴん",
     "meaning": "scoring combination of a 4 and a 1 in oicho-kabu"
@@ -13285,19 +12275,9 @@ const DICTIONARY = [
     "meaning": "'s house, 's home"
   },
   {
-    "keb": "私",
-    "reading": "あたい",
-    "meaning": "I, me"
-  },
-  {
     "keb": "電気力学",
     "reading": "でんきりきがく",
     "meaning": "electrodynamics"
-  },
-  {
-    "keb": "私",
-    "reading": "あて",
-    "meaning": "I, me"
   },
   {
     "keb": "木口",
@@ -13328,11 +12308,6 @@ const DICTIONARY = [
     "keb": "舌長",
     "reading": "したなが",
     "meaning": "boastful (language), audacious, arrogant, presumptuous"
-  },
-  {
-    "keb": "半人足",
-    "reading": "はんにんそく",
-    "meaning": "useless, worthless, incompetent, no good"
   },
   {
     "keb": "半人",
@@ -13400,21 +12375,6 @@ const DICTIONARY = [
     "meaning": "child in elementary or middle school"
   },
   {
-    "keb": "女",
-    "reading": "おみな",
-    "meaning": "woman"
-  },
-  {
-    "keb": "後立",
-    "reading": "うしろだて",
-    "meaning": "decoration on the back of a helmet"
-  },
-  {
-    "keb": "車学",
-    "reading": "しゃがく",
-    "meaning": "driving school"
-  },
-  {
     "keb": "三社",
     "reading": "さんしゃ",
     "meaning": "three shrines (usu. in ref. to Ise Grand Shrine, Iwashimizu Hachimangū and Kamo Shrine, or Kasuga Grand Shrine)"
@@ -13435,24 +12395,9 @@ const DICTIONARY = [
     "meaning": "taking time off by the hour (e.g. for medical appointments or childcare)"
   },
   {
-    "keb": "赤電",
-    "reading": "あかでん",
-    "meaning": "last train (of the day)"
-  },
-  {
-    "keb": "青電車",
-    "reading": "あおでんしゃ",
-    "meaning": "second-to-last train (of the day)"
-  },
-  {
     "keb": "長年月",
     "reading": "ちょうねんげつ",
     "meaning": "long period of time"
-  },
-  {
-    "keb": "水母",
-    "reading": "すいぼ",
-    "meaning": "jellyfish"
   },
   {
     "keb": "一色",
@@ -13525,24 +12470,9 @@ const DICTIONARY = [
     "meaning": "ten people"
   },
   {
-    "keb": "昼食",
-    "reading": "ちゅうじき",
-    "meaning": "lunch, midday meal"
-  },
-  {
     "keb": "一日",
     "reading": "いっぴ",
     "meaning": "first day of the month"
-  },
-  {
-    "keb": "前道",
-    "reading": "ぜんどう",
-    "meaning": "front road, road in front (of a property)"
-  },
-  {
-    "keb": "生年",
-    "reading": "しょうねん",
-    "meaning": "age"
   },
   {
     "keb": "年魚",
@@ -13570,11 +12500,6 @@ const DICTIONARY = [
     "meaning": "once a week"
   },
   {
-    "keb": "私",
-    "reading": "わちき",
-    "meaning": "I, me"
-  },
-  {
     "keb": "水名",
     "reading": "すいめい",
     "meaning": "hydronym (proper name of a body of water)"
@@ -13590,394 +12515,14 @@ const DICTIONARY = [
     "meaning": "kūdō (martial art form)"
   },
   {
-    "keb": "大人",
-    "reading": "うし",
-    "meaning": "exalted person, person of high education"
-  },
-  {
-    "keb": "花気",
-    "reading": "かき",
-    "meaning": "fragrance of flowers, scent of flowers"
-  },
-  {
-    "keb": "安田女子大学",
-    "reading": "やすだじょしだいがく",
-    "meaning": "Yasuda Women's University"
-  },
-  {
-    "keb": "九大",
-    "reading": "きゅうだい",
-    "meaning": "Kyushu University (abbr)"
-  },
-  {
-    "keb": "国語学会",
-    "reading": "こくごがっかい",
-    "meaning": "Society for the Study of Japanese Language"
-  },
-  {
-    "keb": "国立中山大学",
-    "reading": "こくりつなかやまだいがく",
-    "meaning": "National Sun Yat-sen University, NSYSU"
-  },
-  {
-    "keb": "山口女子大学",
-    "reading": "やまぐちじょしだいがく",
-    "meaning": "Yamaguchi Women's University"
-  },
-  {
-    "keb": "山口大学",
-    "reading": "やまぐちだいがく",
-    "meaning": "Yamaguchi University"
-  },
-  {
-    "keb": "山西大学",
-    "reading": "さんせいだいがく",
-    "meaning": "Shanxi University"
-  },
-  {
-    "keb": "山東大学",
-    "reading": "さんとうだいがく",
-    "meaning": "Shandong University, SDU"
-  },
-  {
-    "keb": "四国女子大学",
-    "reading": "しこくじょしだいがく",
-    "meaning": "Shikoku Women's University"
-  },
-  {
-    "keb": "四国大学",
-    "reading": "しこくだいがく",
-    "meaning": "Shikoku University"
-  },
-  {
-    "keb": "四国電力",
-    "reading": "しこくでんりょく",
-    "meaning": "Shikoku Electrical Power"
-  },
-  {
-    "keb": "社会言語学会",
-    "reading": "しゃかいげんごがっかい",
-    "meaning": "Japanese Association of Sociolinguistic Sciences"
-  },
-  {
-    "keb": "西北大学",
-    "reading": "にしきただいがく",
-    "meaning": "Northwest University"
-  },
-  {
     "keb": "西友",
     "reading": "せいゆう",
     "meaning": "Seiyū"
   },
   {
-    "keb": "青森大学",
-    "reading": "あおもりだいがく",
-    "meaning": "Aomori University"
-  },
-  {
-    "keb": "早大",
-    "reading": "そうだい",
-    "meaning": "Waseda University (abbr)"
-  },
-  {
-    "keb": "大手前女子大学",
-    "reading": "おおてまえじょしだいがく",
-    "meaning": "Otemae Women's College"
-  },
-  {
-    "keb": "大分大学",
-    "reading": "おおいただいがく",
-    "meaning": "Oita University"
-  },
-  {
-    "keb": "中国新聞",
-    "reading": "ちゅうごくしんぶん",
-    "meaning": "Chūgoku Shimbun"
-  },
-  {
-    "keb": "中国電力",
-    "reading": "ちゅうごくでんりょく",
-    "meaning": "Chugoku Electric Power"
-  },
-  {
-    "keb": "中山大学",
-    "reading": "なかやまだいがく",
-    "meaning": "Sun Yat-sen University"
-  },
-  {
-    "keb": "中日",
-    "reading": "ちゅうにち",
-    "meaning": "Chunichi Dragons (Japanese baseball team) (abbr)"
-  },
-  {
-    "keb": "中日新聞",
-    "reading": "ちゅうにちしんぶん",
-    "meaning": "Chunichi Shimbun (Japanese newspaper)"
-  },
-  {
-    "keb": "朝日新聞",
-    "reading": "あさひしんぶん",
-    "meaning": "Asahi Shimbun (Japanese newspaper)"
-  },
-  {
-    "keb": "朝日新聞社",
-    "reading": "あさひしんぶんしゃ",
-    "meaning": "The Asahai Shimbun Company"
-  },
-  {
-    "keb": "朝日大学",
-    "reading": "あさひだいがく",
-    "meaning": "Asahi University"
-  },
-  {
     "keb": "長大",
     "reading": "ながだい",
     "meaning": "Nagadai"
-  },
-  {
-    "keb": "電車男",
-    "reading": "でんしゃおとこ",
-    "meaning": "Densha Otoko (film, television series, manga and novel)"
-  },
-  {
-    "keb": "東食",
-    "reading": "とうしょく",
-    "meaning": "Toshoku (Japanese trading company)"
-  },
-  {
-    "keb": "東大",
-    "reading": "とうだい",
-    "meaning": "University of Tokyo (abbr)"
-  },
-  {
-    "keb": "東電",
-    "reading": "とうでん",
-    "meaning": "Tokyo Electric Power Co., Inc., Tokyo Denryoku, TEPCO"
-  },
-  {
-    "keb": "東南大学",
-    "reading": "とうなんだいがく",
-    "meaning": "Southeast University, SEU"
-  },
-  {
-    "keb": "東北女子大学",
-    "reading": "とうほくじょしだいがく",
-    "meaning": "Tohoku Women's College"
-  },
-  {
-    "keb": "東北大",
-    "reading": "とうほくだい",
-    "meaning": "Tōhoku University (abbr)"
-  },
-  {
-    "keb": "東北大学",
-    "reading": "とうほくだいがく",
-    "meaning": "Tohoku University"
-  },
-  {
-    "keb": "東北電力",
-    "reading": "とうほくでんりょく",
-    "meaning": "Tōhoku Electric Power"
-  },
-  {
-    "keb": "南山大学",
-    "reading": "なんざんだいがく",
-    "meaning": "Nanzan University"
-  },
-  {
-    "keb": "日国",
-    "reading": "にっこく",
-    "meaning": "Nihon Kokugo Daijiten (Japanese dictionary published by Shogakukan) (abbr)"
-  },
-  {
-    "keb": "日赤",
-    "reading": "にっせき",
-    "meaning": "Japanese Red Cross Society (abbr)"
-  },
-  {
-    "keb": "日体大",
-    "reading": "にったいだい",
-    "meaning": "Nippon Sport Science University (abbr)"
-  },
-  {
-    "keb": "日大",
-    "reading": "にちだい",
-    "meaning": "Nihon University (abbr)"
-  },
-  {
-    "keb": "日本火山学会",
-    "reading": "にっぽんかざんがっかい",
-    "meaning": "Volcanological Society of Japan"
-  },
-  {
-    "keb": "日本言語学会",
-    "reading": "にほんげんごがっかい",
-    "meaning": "Linguistic Society of Japan, LSJ"
-  },
-  {
-    "keb": "日本語学会",
-    "reading": "にほんごがっかい",
-    "meaning": "Society for Japanese Linguistics"
-  },
-  {
-    "keb": "日本社会学会",
-    "reading": "にっぽんしゃかいがっかい",
-    "meaning": "Japan Sociological Society"
-  },
-  {
-    "keb": "日本手話学会",
-    "reading": "にっぽんしゅわがっかい",
-    "meaning": "Japanese Association of Sign Linguistics"
-  },
-  {
-    "keb": "日本女子大学",
-    "reading": "にほんじょしだいがく",
-    "meaning": "Japan Women's University"
-  },
-  {
-    "keb": "日本食道学会",
-    "reading": "にっぽんしょくどうがっかい",
-    "meaning": "Japan Esophageal Society"
-  },
-  {
-    "keb": "日本人口学会",
-    "reading": "にっぽんじんこうがっかい",
-    "meaning": "Population Association of Japan"
-  },
-  {
-    "keb": "日本大学",
-    "reading": "にほんだいがく",
-    "meaning": "Nihon University"
-  },
-  {
-    "keb": "日本中国学会",
-    "reading": "にっぽんちゅうごくがっかい",
-    "meaning": "Sinological Society of Japan, SSJ"
-  },
-  {
-    "keb": "日本中国語学会",
-    "reading": "にっぽんちゅうごくごがっかい",
-    "meaning": "Chinese Language Society of Japan"
-  },
-  {
-    "keb": "日本中東学会",
-    "reading": "にっぽんちゅうとうがっかい",
-    "meaning": "Japan Association for Middle East Studies"
-  },
-  {
-    "keb": "日本電気",
-    "reading": "にっぽんでんき",
-    "meaning": "NEC (Nippon Electric Company)"
-  },
-  {
-    "keb": "日本読書学会",
-    "reading": "にっぽんどくしょがっかい",
-    "meaning": "Japan Reading Association, JRA"
-  },
-  {
-    "keb": "日立",
-    "reading": "ひたち",
-    "meaning": "Hitachi"
-  },
-  {
-    "keb": "白水社",
-    "reading": "はくすいしゃ",
-    "meaning": "Hakusuisha (publisher)"
-  },
-  {
-    "keb": "北大",
-    "reading": "ほくだい",
-    "meaning": "Hokkaido University (abbr)"
-  },
-  {
-    "keb": "本女",
-    "reading": "ぽんじょ",
-    "meaning": "Japan Women's University (abbr)"
-  },
-  {
-    "keb": "毎日新聞",
-    "reading": "まいにちしんぶん",
-    "meaning": "Mainichi Shimbun (newspaper)"
-  },
-  {
-    "keb": "毎日新聞社",
-    "reading": "まいにちしんぶんしゃ",
-    "meaning": "Mainichi Newspapers Co. Ltd (Japanese newspaper company)"
-  },
-  {
-    "keb": "名人",
-    "reading": "めいじん",
-    "meaning": "The Master of Go (1951 novel by Yasunari Kawabata)"
-  },
-  {
-    "keb": "名大",
-    "reading": "めいだい",
-    "meaning": "Nagoya University (abbr)"
-  },
-  {
-    "keb": "明大",
-    "reading": "めいだい",
-    "meaning": "Meiji University (abbr)"
-  },
-  {
-    "keb": "目白大学",
-    "reading": "めじろだいがく",
-    "meaning": "Mejiro University"
-  },
-  {
-    "keb": "高分子学会",
-    "reading": "こうぶんしがっかい",
-    "meaning": "Society of Polymer Science, Japan (SPSJ)"
-  },
-  {
-    "keb": "青学",
-    "reading": "あおがく",
-    "meaning": "Aoyama Gakuin University (abbr)"
-  },
-  {
-    "keb": "東女",
-    "reading": "トンじょ",
-    "meaning": "Tokyo Woman's Christian University (abbr)"
-  },
-  {
-    "keb": "学大",
-    "reading": "がくだい",
-    "meaning": "Tokyo Gakugei University (abbr.)"
-  },
-  {
-    "keb": "女大学",
-    "reading": "おんなだいがく",
-    "meaning": "The Great Learning for Women (18th century neo-Confucian educational text for women)"
-  },
-  {
-    "keb": "大手前大学",
-    "reading": "おおてまえだいがく",
-    "meaning": "Otemae University"
-  },
-  {
-    "keb": "中国新聞社",
-    "reading": "ちゅうごくしんぶんしゃ",
-    "meaning": "Chugoku Shimbun (Japanese newspaper company)"
-  },
-  {
-    "keb": "三国",
-    "reading": "さんこく",
-    "meaning": "Sanseido Kokugo Jiten (Japanese dictionary published by Sanseido) (abbr)"
-  },
-  {
-    "keb": "三体",
-    "reading": "さんたい",
-    "meaning": "The Three-Body Problem (2008 novel and subsequent adaptations)"
-  },
-  {
-    "keb": "長大",
-    "reading": "ちょうだい",
-    "meaning": "Nagasaki University (abbr)"
-  },
-  {
-    "keb": "山大",
-    "reading": "やまだい",
-    "meaning": "Yamagata University (abbr)"
   }
 ]
 
