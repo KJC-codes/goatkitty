@@ -1,15 +1,4 @@
-export type KanjiEntry = {
-  kanji: string;                
-  meaning: string[];  
-  concept: string[];
-  strokes: number; 
-  readings: {
-    kunyomi: string[]; 
-    onyomi: string[];
-  };
-};
-
-export type Kanji = KanjiEntry[];
+import { Kanji } from "@/app/types/kanji";
 
 const kanjiToNumber: { [key: string]: number } = {
   '一': 1,
